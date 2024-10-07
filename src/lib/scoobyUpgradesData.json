@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Shaggy",
+    "cost": 100,
+    "increase per second": 1
+  },
+  {
+    "id": 2,
+    "name": "Mystery Inc Gang",
+    "cost": 500,
+    "increase per second": 5
+  },
+  {
+    "id": 3,
+    "name": "Mystery Machine Food Truck",
+    "cost": 1000,
+    "increase per second": 10
+  },
+  {
+    "id": 4,
+    "name": "Velmas Magical Microwave",
+    "cost": 2000,
+    "increase per second": 20
+  },
+  {
+    "id": 5,
+    "name": "Coolsville - Diablos Factory",
+    "cost": 5000,
+    "increase per second": 50
+  },
+  {
+    "id": 6,
+    "name": "Hanna-Barbera Characters Assemble",
+    "cost": 10000,
+    "increase per second": 100
+  }
+]

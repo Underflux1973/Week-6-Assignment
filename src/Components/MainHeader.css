@@ -1,0 +1,11 @@
+#header_div {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 300px;
+  background-color: #128a84;
+  border: 10px solid;
+  border-color: #bb5c37;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
