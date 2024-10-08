@@ -9,4 +9,4 @@ I also see that when I have an issue with the functionality side of things, I th
 So I haven't done any of that and the development isn't rendered. This is annoying as I was hoping to get some media queries in which I had managed to do on the group project successfuly. I was also hoping to get some wacky 70's colour palletes going on.
 
 I am still struggling to understand everything that is presented each week, even on a seemingly basic level. I clearly need some help with the way I am connecting the various blocks of code. I'm just not there yet I'm afraid.
-# Week-6-Assignment
+# Week-6-Assignmenthnhyuj
